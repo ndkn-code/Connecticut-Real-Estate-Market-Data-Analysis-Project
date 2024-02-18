@@ -1,4 +1,6 @@
 # Connecticut Real Estate Market Data Analysis Project
+
+# Link to dataset: catalog.data.gov/dataset/real-estate-sales-2001-2018
 # Overview:
 This project conducts a detailed analysis of the real estate market, leveraging machine learning to categorize properties and evaluate market trends.
 
